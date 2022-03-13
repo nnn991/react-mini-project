@@ -31,32 +31,16 @@ last_modified_at: 2022-03-13
   
   0. 방향 설정 : 구현기능 설계 및 아웃라인 도출
 
-  1. 방향성 확인 :  
-    
   ![layout2](https://user-images.githubusercontent.com/59858894/158050970-a432d425-7089-4ff3-9fbe-276011610bf1.png)
 
-  2. 브라우저 화면 구성 :  
+  1. 브라우저 화면 구성 :  
     
-  ![introduction2](https://user-images.githubusercontent.com/59858894/155517624-7774a233-ae18-4508-9d5a-36e0c97d952e.PNG)  
+  ![b1](https://user-images.githubusercontent.com/59858894/158051070-5be8fc3c-9b48-4615-83a6-83d0aa0ec934.PNG)
 
-  3. 배경 및 브라우저 꾸미기 :  
+  2. 기능 점검 :  
     
-  ![introduction3](https://user-images.githubusercontent.com/59858894/155517885-065c9e49-4a27-4bff-8252-75c348fcfbf8.PNG)
-
-  4. 기능 점검 :  
+  ![btn](https://user-images.githubusercontent.com/59858894/158051209-6c12156a-6dac-4d6c-8ea8-37ae5723c5a2.gif)
     
-  ![5](https://user-images.githubusercontent.com/59858894/155628873-00d49f1b-e7ca-4e18-b163-8fffe8438f9f.PNG)
-    
-  5. Lighthouse :  
-    
-  ![introduction4](https://user-images.githubusercontent.com/59858894/155629019-8414270e-5627-4eca-978d-7d4e7352456a.png)
-  
-  Lighthouse는 단순히 참고용으로 사용하였다.  
-  
-  6. 최종 결과 :  
-    
-  ![g](https://user-images.githubusercontent.com/59858894/155637522-29828d76-78f0-4c43-a4d7-230895f3478d.PNG)
-
 
   # Error revising
     
