@@ -1,0 +1,18 @@
+.card {
+    background-color: white;
+    border-radius: 14px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25) ;
+    padding: 1rem;
+}
+
+button {
+    display: block;
+    margin: auto;
+    background-color: aliceblue;
+}
+
+.button:hover,
+.button:active {
+    background-color: #5aa014;
+    border: 2px solid #38ada9;
+}

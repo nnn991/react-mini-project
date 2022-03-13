@@ -1,0 +1,17 @@
+.h2li {
+    text-align: center;
+    align-items: center;
+}
+
+.btn12 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+p {
+    text-align: center;
+    align-items: center;
+    padding: 0 0 1.5rem;
+    margin: 40px;
+}

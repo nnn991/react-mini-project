@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    padding-bottom: 3px;
+}
+
+#btn {
+    display: block;
+    width: 100px;
+    margin: auto;
+    align-items: center;
+}
+
+p {
+    text-align: center;
+    align-items: center;
+}
+
+button:hover,
+button:active {
+    background-color: #38ada9;
+    border: 2px solid #38ada9;
+}
+
