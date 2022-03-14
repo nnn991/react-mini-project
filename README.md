@@ -37,7 +37,12 @@ last_modified_at: 2022-03-13
     
   ![b1](https://user-images.githubusercontent.com/59858894/158051070-5be8fc3c-9b48-4615-83a6-83d0aa0ec934.PNG)
 
-  2. 기능 점검 :  
+  2. input data : 
+
+  ![캡처333](https://user-images.githubusercontent.com/59858894/158086008-589a1b8b-0a8c-41cc-b821-b0b85c29a1e9.PNG)
+
+
+  3. 기능 점검 :  
     
   ![btn](https://user-images.githubusercontent.com/59858894/158051209-6c12156a-6dac-4d6c-8ea8-37ae5723c5a2.gif)
     
