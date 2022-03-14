@@ -46,6 +46,11 @@ last_modified_at: 2022-03-13
     
   ![btn](https://user-images.githubusercontent.com/59858894/158051209-6c12156a-6dac-4d6c-8ea8-37ae5723c5a2.gif)
     
+  4. Lighthouse : 
+  
+  ![li1](https://user-images.githubusercontent.com/59858894/158088748-e7403e8b-9cbb-4321-bc02-f8dca594ffe2.PNG)
+  ![li2](https://user-images.githubusercontent.com/59858894/158088753-f65e74b2-d0bb-4bde-8750-4dd59ac1d00a.PNG)
+
 
   # Trouble shooting
     
